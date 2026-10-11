@@ -1,51 +1,62 @@
-# AI Voice Agents That Answer Calls, Qualify Leads & Book Appointments
+# AI Voice Agents and Automation Systems for Service Businesses
 
-**Voice AI | Retell AI | GoHighLevel | n8n | Web Design | Cold Email Systems**
+I build AI voice agents and automation systems that answer calls, qualify leads, book appointments, update CRMs, and trigger follow-ups. My services also include service-business website development and B2B outbound infrastructure.
 
-I design AI voice agents, service-business websites, CRM integrations and B2B outreach systems. The aim is simple: **answer enquiries, ask qualifying questions, book the right next step, update the CRM, and follow up reliably.**
+**Stack:** Retell AI, Bland AI, GoHighLevel, n8n, Twilio, Supabase, Next.js, Smartlead, InboxKit
+
+**Try the voice agent:** [Interactive Retell preview](https://agent.retellai.com/preview/agent_ed761677e80ef1b36cf0a5b94e) (browser call, no phone number needed)
+
+## Projects
+
+| Project | Business problem | What I built | Evidence in this repo |
+|---|---|---|---|
+| [Bail-bonds intake receptionist](projects/bail-bonds-intake.md) | Urgent calls arrive after hours or while staff are busy | Voice agent that collects intake details, respects knowledge limits and escalates to a licensed agent | Qualification design, test scenarios, anonymized prospect response |
+| [Retell AI conversational agent](projects/retell-conversational-agent.md) | Scripted bots fail when callers interrupt, change topic or give partial answers | Adaptive conversation design with branching, interruption handling and handoff rules | Live preview link, routing diagram, evaluator tests |
+| [GoHighLevel speed-to-lead automation](projects/speed-to-lead-crm.md) | New leads go cold while nobody responds | Form or missed-call trigger to AI callback or SMS, discovery questions, CRM write, booking or callback task | Workflow specification, acceptance checklist, architecture diagram |
+| [Service-business websites and lead capture](projects/service-business-websites.md) | Visitors cannot find the phone number or the form goes nowhere | Responsive sites with click-to-call, lead forms and integration-ready submissions | Scope and acceptance checklist, anonymized enquiry example |
+| [B2B outbound outreach systems](projects/outbound-email-systems.md) | Cold email bounces, lands in spam or gets no replies | Prospect sourcing, verification, sending infrastructure, sequences and reply handling | Workflow, tooling, anonymized reply and campaign dashboard |
+
+## How a typical system fits together
+
+```mermaid
+flowchart LR
+  A[Inbound call or web form] --> B[Voice agent on Retell or Bland]
+  B --> C{Intent and qualification}
+  C -->|Qualified| D[n8n workflow]
+  C -->|Urgent or sensitive| E[Human transfer or callback task]
+  D --> F[GoHighLevel contact, pipeline stage, notes]
+  D --> G[Calendar booking or scheduling task]
+  D --> H[Permitted SMS or staff alert]
+  F --> I[Follow-up workflow]
+```
+
+Each box is a component I design, configure and test. Which boxes are live in a given project depends on the client's platforms, consent rules and budget, and the project pages say which parts are implemented and which are proposed.
 
 ## What a connected agent should handle
 
-1. **Answer calls:** Take incoming and after-hours calls, identify the enquiry, answer approved business questions, and escalate urgent or sensitive requests to a person.
-2. **Qualify prospects:** Ask what service is needed, where, when and how urgently, adapting questions to the answers received.
-3. **Book appointments:** Check calendar availability where integrated, and distinguish a confirmed booking from sending a scheduling link.
-4. **Update CRM records:** Create or update contacts, notes, opportunities, tags and pipeline stages; minimize duplicate records.
-5. **Follow up:** Trigger permitted SMS messages, reminders, staff alerts or callback tasks.
-6. **Handle exceptions:** Test interruptions, background noise, unanswered questions, human handoffs, webhook failures and calendar errors.
-
-## Work samples
-
-| Project | Focus | Evidence |
-|---|---|---|
-| [Retell AI conversational agent](projects/retell-conversational-agent.md) | Adaptive conversation design, branching, qualification, interruption and human-handoff considerations | [Interactive Retell preview](https://agent.retellai.com/preview/agent_ed761677e80ef1b36cf0a5b94e) |
-| [Bail-bonds intake receptionist](projects/bail-bonds-intake.md) | U.S. bail-enquiry intake, caller triage, service-area questions and safe escalation | Test scenarios and technical description |
-| [GoHighLevel speed-to-lead automation](projects/speed-to-lead-crm.md) | Form-to-call/SMS response, qualification, CRM updates, booking and follow-up | Workflow specification and acceptance checklist |
-| [Service-business websites and lead capture](projects/service-business-websites.md) | Responsive websites, clear service pages, forms, booking routes and mobile lead capture | Design and implementation checklist; sample project descriptions |
-| [B2B outbound outreach systems](projects/outbound-email-systems.md) | Targeted prospecting, sender infrastructure, email verification, campaigns, reply handling | Systems workflow, tooling experience and quality-control checklist |
-
-## Services in practical terms
-
-- **Voice AI:** answer incoming enquiries, ask qualifying questions, book or route appointments, update CRM records and trigger permitted follow-up.
-- **Websites:** create responsive, mobile-friendly service websites with clear calls to action and lead-capture forms.
-- **Outbound systems:** research prospects, prepare verified lead lists, configure outreach infrastructure and sequences, and handle reply-routing and deliverability checks.
+1. **Answer calls:** take incoming and after-hours calls, identify the enquiry, answer approved business questions, escalate urgent or sensitive requests to a person.
+2. **Qualify prospects:** ask what service is needed, where, when and how urgently, adapting questions to the answers received.
+3. **Book appointments:** check calendar availability where integrated, and distinguish a confirmed booking from sending a scheduling link.
+4. **Update CRM records:** create or update contacts, notes, opportunities, tags and pipeline stages without creating duplicates.
+5. **Follow up:** trigger permitted SMS messages, reminders, staff alerts or callback tasks.
+6. **Handle exceptions:** interruptions, background noise, unanswered questions, human handoffs, webhook failures and calendar errors.
 
 ## Speed to lead
 
-**Speed to lead** means the elapsed time between a new customer enquiry and the first meaningful response. For example: someone fills out a website form; an automation checks consent and contact details, triggers a permitted AI callback or SMS, asks discovery questions, writes the outcome to GoHighLevel and routes the next action.
-
-A **30-second initial-response time is a design target**, not a claimed benchmark or guarantee. Actual speed depends on provider latency, automation rules and testing.
+Speed to lead is the time between a new enquiry and the first meaningful response. A **30-second initial response is a design target**, not a measured benchmark or a guarantee. Actual speed depends on provider latency, automation rules and testing.
 
 ## Voice-agent design considerations
 
-Prompts and business knowledge; branching and follow-up questions; interruption sensitivity and natural turn-taking; response pacing; background-noise handling; calm or empathetic phrasing; unsupported-answer boundaries; transfer and callback rules. The linked Retell preview is a way to **try the conversation**, not proof that every setting or integration is active.
+Prompts and business knowledge; branching and follow-up questions; interruption sensitivity and natural turn-taking; response pacing; background-noise handling; calm phrasing under stress; unsupported-answer boundaries; transfer and callback rules. The linked Retell preview is a way to **try the conversation**, not proof that every setting or integration is active.
 
 ## Tools and integration boundaries
 
-- **Voice:** Retell AI and Bland AI demonstrations and designs.
-- **CRM and workflows:** GoHighLevel, n8n, APIs/webhooks, contact records and lead-routing logic.
-- **Potential integrations subject to platform access and testing:** Cal.com, Calendly, Google Calendar, HubSpot, Zoho, Frappe CRM, Notion, Slack, Jotform, Jobber, Housecall Pro and ServiceTitan.
-- **U.S. texting considerations:** A2P 10DLC registration requirements, documented consent, appropriate disclosures, STOP opt-out handling, and delivery/error monitoring. Registration by itself does not grant permission to message.
+- **Voice:** Retell AI and Bland AI (built and tested). Vapi and GoHighLevel Voice AI (familiar, no shipped build in this repo).
+- **CRM and workflows:** GoHighLevel, n8n, REST APIs and webhooks, Supabase, contact records and lead-routing logic.
+- **Telephony and messaging:** Twilio, A2P 10DLC registration, consent capture, STOP handling, delivery monitoring.
+- **Possible integrations, scoped per project:** Cal.com, Calendly, Google Calendar, HubSpot, Zoho, Frappe CRM, Notion, Slack, Jotform, Jobber, Housecall Pro, ServiceTitan.
+- **U.S. texting:** A2P 10DLC registration is required for business texting on long codes. Registration by itself does not grant permission to message; documented consent and opt-out handling are still needed.
 
 ## Evidence and privacy
 
-These are **demonstrations, design samples and technical documentation**. Do not assume every possible integration is live, every feature enabled or any stated target already measured. Example scenarios use fictional information, not real client cases. Sensitive customer records, credentials, personal contact information and direct phone-demo numbers are excluded from this Upwork-facing repository. Work enquiries and pre-contract communications should remain on Upwork where required.
+These are **demonstrations, design samples and technical documentation**. The images in `assets/` are recreated and anonymized illustrations based on real outreach and demonstrations; they are not pixel-exact screenshots, verified testimonials or performance reports. Example scenarios use fictional information. Credentials, client records, personal contact details and direct phone-demo numbers are excluded. Work enquiries and pre-contract communications stay on Upwork where required.
