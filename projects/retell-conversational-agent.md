@@ -30,3 +30,23 @@ These are **design and test topics**, not a claim that every setting is active i
 Voice-agent outcomes can be routed via webhooks or n8n to GoHighLevel contacts and pipelines, CRM notes, calendars (Cal.com, Calendly, Google Calendar) or Slack/Notion notifications where configured and supported. Do not describe an integration as completed until it has been tested.
 
 **Evidence to add:** screenshots of the editor with secrets removed, anonymized test transcripts, and successful sample webhook/CRM updates.
+
+## Illustrative conversation routing
+
+```mermaid
+flowchart TD
+  A[Inbound call] --> B[Greeting and purpose]
+  B --> C{Caller intent?}
+  C -->|Service enquiry| D[Ask service and location questions]
+  C -->|Urgent or sensitive| E[Human escalation rules]
+  C -->|Unknown request| F[Clarify or explain knowledge limit]
+  D --> G{Enough details?}
+  G -->|No| H[Ask one follow-up at a time]
+  H --> G
+  G -->|Yes| I[Summarize next action]
+  E --> I
+  F --> I
+  I --> J[Callback, booking request or CRM handoff where integrated]
+```
+
+This diagram illustrates design reasoning. The publicly shared preview does not by itself verify every transition or integration.

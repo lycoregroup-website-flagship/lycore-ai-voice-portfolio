@@ -39,3 +39,25 @@ U.S. business texting on 10-digit long-code numbers can require A2P 10DLC brand 
 - The business can see the lead's next action and supporting notes.
 
 **Scope note:** this page documents a workflow design and testing criteria. It does not claim that every named connector is deployed.
+
+## Illustrative integration architecture
+
+```mermaid
+flowchart TD
+  A[New form lead or missed call] --> B{Allowed contact and consent?}
+  B -->|Yes| C[AI callback or permitted SMS]
+  B -->|No| D[Log and assign compliant staff action]
+  C --> E{Connected to lead?}
+  E -->|Yes| F[Discovery and qualification questions]
+  E -->|No| G[Follow-up according to preferences and rules]
+  F --> H[Upsert contact, notes and opportunity in GoHighLevel]
+  G --> H
+  H --> I{Appointment actually confirmed?}
+  I -->|Yes| J[Create or sync calendar event]
+  I -->|No| K[Create callback or scheduling task]
+  J --> L[Send appropriate confirmation / notify team]
+  K --> L
+  D --> L
+```
+
+This is a reference workflow specification. Actual API availability, messaging permission, response time and end-to-end success require project-specific testing.
