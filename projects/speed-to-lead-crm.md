@@ -3,6 +3,12 @@
 **Type:** workflow design and acceptance criteria for responding to new leads automatically.
 **Status:** workflow logic and GoHighLevel configuration patterns built and tested in my own accounts; not described as deployed for a paying client.
 
+## Service overview
+
+![Service overview graphic: speed-to-lead flow from missed call or form to booked appointment](../assets/07_Overview_Speed_to_Lead.jpg)
+
+*Concept graphic with fictional sample data. The timings on the graphic are design targets, not measured results. It is not a client result, screenshot or measured outcome.*
+
 ## Business problem
 
 Speed to lead measures the time between a lead expressing interest and the business responding. Most service businesses respond in hours, by which time the prospect has called a competitor. **An initial contact within 30 seconds is the design target, not a measured guarantee.**

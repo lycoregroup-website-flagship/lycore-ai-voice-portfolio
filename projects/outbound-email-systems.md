@@ -3,6 +3,12 @@
 **Type:** outbound operations, lead-list quality and campaign infrastructure for U.S. B2B service-business prospecting.
 **Status:** built and run for LYCORE's own outreach on Smartlead, InboxKit and Explee; results are described as engagement, not revenue.
 
+## Service overview
+
+![Service overview graphic: cold email system from lead sourcing to reply handling](../assets/08_Overview_Cold_Email_Systems.jpg)
+
+*Concept graphic with fictional sample data. The five stages shown (lead sourcing, list cleaning, warm-up, sequencing, reply handling) match the process described on this page. It is not a client result, screenshot or measured outcome.*
+
 ## Business problem
 
 Cold email fails for predictable reasons: unverified lists that bounce, sending from the main business domain, no warm-up, generic copy and nobody handling the replies. Each of those is an infrastructure or process decision, and each one is fixable.

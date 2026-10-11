@@ -3,6 +3,12 @@
 **Type:** website design and implementation samples for U.S. service businesses, plus Google Business Profile and reputation support.
 **Status:** sites built on Next.js and deployed to Vercel for my own properties and prototypes; client builds described only where verified.
 
+## Service overview
+
+![Service overview graphic: service-business website with click-to-call, lead form and local search support](../assets/09_Overview_Websites_That_Convert.jpg)
+
+*Concept graphic with fictional sample data. The mockups are illustrative; the site itself is not a client deliverable. It is not a client result, screenshot or measured outcome.*
+
 ## Business problem
 
 A visitor needs to identify a service, trust the business and contact someone fast. A site that looks polished but hides the phone number, makes the form difficult or routes enquiries nowhere does not produce calls. Many local businesses also have Google Business Profile problems (wrong phone number, unanswered reviews, duplicate listings) that cost them calls before the website is even visited.

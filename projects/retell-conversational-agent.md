@@ -5,6 +5,12 @@
 **Goal:** a conversational agent that recognizes the caller's intent, asks useful follow-up questions and adapts its responses instead of reading an inflexible script.
 **Status:** built and tested on Retell AI; the preview is live. Business integrations below are described as designs unless marked tested.
 
+## Service overview
+
+![Service overview graphic: conversational AI agent handling calls, chats and leads](../assets/05_Overview_Conversational_AI_Agent.jpg)
+
+*Concept graphic with fictional sample data. The interface elements and channels shown (calls, chat, DMs, lead list) are a design concept. The tested build in this repo is the Retell voice agent. It is not a client result, screenshot or measured outcome.*
+
 ## Business problem
 
 Scripted phone bots fail the moment a caller interrupts, changes topic or gives half an answer. Service businesses need an agent that behaves like a competent receptionist: listens, confirms, asks the next useful question and knows when to hand off.

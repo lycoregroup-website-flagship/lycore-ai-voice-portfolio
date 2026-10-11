@@ -3,6 +3,12 @@
 **Type:** conversational voice-agent demonstration for U.S. bail-bond agencies.
 **Status:** built and tested as a demonstration on Retell AI; no production deployment for a paying client is claimed.
 
+## Service overview
+
+![Service overview graphic: AI receptionist answering calls, qualifying leads and booking callbacks](../assets/06_Overview_AI_Receptionist.jpg)
+
+*Concept graphic with fictional sample data. This is the general receptionist concept; the bail-bond build described below is the same pattern with bail-specific prompts and escalation rules. It is not a client result, screenshot or measured outcome.*
+
 ## Business problem
 
 Urgent bail enquiries arrive after hours or while staff are busy. A missed call is often a lost client, because the family calls the next agency on the list. An AI receptionist can collect the minimum useful intake information and route the caller to a qualified person without giving legal advice or promising an outcome.
@@ -22,6 +28,10 @@ Urgent bail enquiries arrive after hours or while staff are busy. A missed call 
 3. For bail enquiries it asks one question at a time, confirming the answers back.
 4. If the enquiry is urgent or outside the agent's knowledge, it offers a transfer or a callback and records the request.
 5. Collected fields are available to a webhook or n8n workflow for CRM writes and staff alerts. In this demonstration the CRM write is designed and tested with fictional data; it is not connected to a client's live CRM.
+
+## Platform options
+
+The demonstration is built on Retell AI. The same receptionist pattern (prompt, knowledge boundaries, qualification path, escalation rules) can also be generated and configured on Synthflow, depending on the client's platform, budget and telephony requirements. No Synthflow deployment is claimed here.
 
 ## Try fictional scenarios
 
