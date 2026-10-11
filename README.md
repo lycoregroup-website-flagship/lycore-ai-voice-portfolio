@@ -1,8 +1,8 @@
 # AI Voice Agents That Answer Calls, Qualify Leads & Book Appointments
 
-**Retell AI | GoHighLevel | n8n | CRM integrations | SMS workflows**
+**Voice AI | Retell AI | GoHighLevel | n8n | Web Design | Cold Email Systems**
 
-I design AI voice agents and customer-intake automations for U.S. service businesses. The aim is simple: **answer enquiries, ask qualifying questions, book the right next step, update the CRM, and follow up reliably.**
+I design AI voice agents, service-business websites, CRM integrations and B2B outreach systems. The aim is simple: **answer enquiries, ask qualifying questions, book the right next step, update the CRM, and follow up reliably.**
 
 ## What a connected agent should handle
 
@@ -20,6 +20,14 @@ I design AI voice agents and customer-intake automations for U.S. service busine
 | [Retell AI conversational agent](projects/retell-conversational-agent.md) | Adaptive conversation design, branching, qualification, interruption and human-handoff considerations | [Interactive Retell preview](https://agent.retellai.com/preview/agent_ed761677e80ef1b36cf0a5b94e) |
 | [Bail-bonds intake receptionist](projects/bail-bonds-intake.md) | U.S. bail-enquiry intake, caller triage, service-area questions and safe escalation | Test scenarios and technical description |
 | [GoHighLevel speed-to-lead automation](projects/speed-to-lead-crm.md) | Form-to-call/SMS response, qualification, CRM updates, booking and follow-up | Workflow specification and acceptance checklist |
+| [Service-business websites and lead capture](projects/service-business-websites.md) | Responsive websites, clear service pages, forms, booking routes and mobile lead capture | Design and implementation checklist; sample project descriptions |
+| [B2B outbound outreach systems](projects/outbound-email-systems.md) | Targeted prospecting, sender infrastructure, email verification, campaigns, reply handling | Systems workflow, tooling experience and quality-control checklist |
+
+## Services in practical terms
+
+- **Voice AI:** answer incoming enquiries, ask qualifying questions, book or route appointments, update CRM records and trigger permitted follow-up.
+- **Websites:** create responsive, mobile-friendly service websites with clear calls to action and lead-capture forms.
+- **Outbound systems:** research prospects, prepare verified lead lists, configure outreach infrastructure and sequences, and handle reply-routing and deliverability checks.
 
 ## Speed to lead
 
