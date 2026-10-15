@@ -29,6 +29,12 @@ I work from Harare (UTC+2). Every time I write down is shown in both your zone a
 - Daily: morning brief, inbox sorted into five groups
 - Friday: one page weekly update, open actions with owners and dates
 
+## The first week with a new executive
+- **Day 1:** shared access to only what the first tasks need, plus the written rules: what I may send, what waits for a yes, who I may contact.
+- **Day 2:** a baseline. Calendar conflicts list, inbox sorted into the five groups, open actions with owners.
+- **Day 3:** the first morning brief, trimmed to what you actually read.
+- **Day 5:** the first one page weekly update, and a short review: what to keep, what to change.
+
 ## Handover template
 Use this when a task changes hands or pauses.
 

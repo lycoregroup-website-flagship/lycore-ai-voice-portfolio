@@ -45,8 +45,8 @@ These are **recreated illustrations** built from invented data, or **renders of 
 | --- | --- | --- |
 | `sales-s7-buyer-states.png` | [Mindset and posture](../projects/sales-01-mindset-and-posture.md) | Three buyer states and what I do in each |
 | `sales-s1-research-card.png` | [Research before the call](../projects/sales-02-research-before-the-call.md) | A research card on a made-up pest control business |
-| `sales-s5-opener-anatomy.png` | [Openers and gatekeepers](../projects/sales-03-openers-and-gatekeepers.md) | Two example openers split into their parts |
+| `sales-s5-opener-anatomy.png` | [Openers and gatekeepers](../projects/sales-03-openers-and-gatekeepers.md) | An opener that answers the common ways out, split into its parts |
 | `sales-s2-call-flow.png` | [Discovery and product pivots](../projects/sales-04-discovery-and-product-pivots.md) | The order of a call with example questions |
-| `sales-s3-objection-map.png` | [Objections](../projects/sales-05-objections.md) | What common objections often hide |
+| `sales-s3-objection-map.png`, `sales-s8-pushback-examples.png` | [Objections](../projects/sales-05-objections.md) | What common objections often hide, and my replies with what each one does |
 | `sales-s6-value-ladder.png` | [Value first](../projects/sales-06-value-first-and-busy-owners.md) | Four meeting free ways to give value |
 | `sales-s4-lines-i-avoid.png` | [Lines I avoid](../projects/sales-07-lines-i-avoid-and-why.md) | Each line, the feeling it causes and the hurdle it creates |

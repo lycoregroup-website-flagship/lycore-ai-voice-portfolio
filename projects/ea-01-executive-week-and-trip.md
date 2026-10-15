@@ -25,6 +25,13 @@ Calendar events created and checked in three time zones. Flight and hotel search
 ## Possible with client access, not done
 Booking, adding confirmations to the calendar, flight status checks the evening before each leg, and a trip pack sent to the traveller.
 
+## What I would ask first
+Before doing this for a real executive I would ask:
+1. Which meetings can move, and which never move? I would mark them differently on the calendar.
+2. What is your travel rule: hotel cap, airline, seat, how early to arrive? I would write it down once and check every option against it.
+3. Who may I contact to reschedule on your behalf, and what do I say to them?
+I would write the answers down once and work from them, so I do not ask the same question twice.
+
 ## Tools and honest levels
 Google Calendar, Expedia search, Kiwi.com search: learning, used here for the first time on practice data. Google Drive: used.
 

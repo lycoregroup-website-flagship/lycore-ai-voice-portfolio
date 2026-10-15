@@ -23,6 +23,13 @@ The Trello board, the Asana project, the checklists and the draft.
 ## Possible with client access, not done
 Sending the welcome email, sharing the folder, chasing the client and updating the board as items land.
 
+## What I would ask first
+Before doing this for a real executive I would ask:
+1. Who is the client's day to day contact, and who signs off decisions?
+2. Which tool does the client's team already use? I would work in theirs where I can.
+3. What does the client need to see by the kickoff call to feel it went well?
+I would write the answers down once and work from them, so I do not ask the same question twice.
+
 ## Tools and honest levels
 Trello and Asana: learning, used here for the first time on practice data. Gmail drafts and Google Drive: used.
 

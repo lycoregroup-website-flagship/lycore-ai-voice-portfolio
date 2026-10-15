@@ -24,6 +24,13 @@ The shortlist, the budget sheet with formulas, the run of show.
 ## Possible with client access, not done
 Asking hotels for quotes, booking, collecting dietary needs and tracking real spend.
 
+## What I would ask first
+Before doing this for a real executive I would ask:
+1. Is the cap a total or per person, and what is flexible: dates, place or headcount?
+2. Who signs off a booking before any deposit is paid?
+3. What must the venue have, and what would you swap for a lower price?
+I would write the answers down once and work from them, so I do not ask the same question twice.
+
 ## Tools and honest levels
 Google Sheets: used. Notion: daily use. Expedia search and Canva: learning.
 

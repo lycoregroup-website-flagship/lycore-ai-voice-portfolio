@@ -25,6 +25,13 @@ The Notion log, the three drafts and the brief, all on fictional data.
 ## Possible with client access, not done
 Reading a real inbox, applying labels, forwarding to the right team and learning the executive's own preferences.
 
+## What I would ask first
+Before doing this for a real executive I would ask:
+1. Which senders always reach you, whatever the hour?
+2. What may I answer myself, and what always waits for your yes?
+3. When do you read the morning brief, and how long should it be?
+I would write the answers down once and work from them, so I do not ask the same question twice.
+
 ## Tools and honest levels
 Notion: daily use. Gmail drafts and Google Drive: used.
 

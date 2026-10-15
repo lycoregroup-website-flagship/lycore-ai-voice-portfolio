@@ -26,6 +26,13 @@ The three files open and render. The workbook has 34 formulas and no errors afte
 ## Possible with client access, not done
 Sending the invitation, sharing the board with a team, linking the board to a client's own tools and keeping the weekly update going week after week.
 
+## What I would ask first
+Before doing this for a real executive I would ask:
+1. Are there brand rules: logo, colours, fonts?
+2. Who approves a document or design before it leaves, and in what format do you want it, editable or PDF?
+3. Which files already exist that I should reuse, not rebuild?
+I would write the answers down once and work from them, so I do not ask the same question twice.
+
 ## Tools and honest levels
 Word, Excel and PowerPoint files: built as files here, not inside the Microsoft 365 apps. Canva and monday.com: learning, used for the first time on practice data. Google Sheets: used. Notion: daily use.
 

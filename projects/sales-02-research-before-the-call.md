@@ -7,6 +7,9 @@ Business owners today get a lot of cold pitches. My estimate is somewhere betwee
 
 So before I call, I do my own background check on the business. I look for the small things that do not add up, that need fixing, that are broken. I lead with those, because they are real problems that already exist and the owner cannot ignore them. Then I ask what they are doing about those issues.
 
+## How I enrich the data
+Before I dial I enrich my data. I look for additional things about the business: small inconsistencies and discrepancies, negative reviews if they exist, complaints, and anything that does not line up on their website. I use those facts because they are real problems that already exist. The owner cannot deny them. Then I match the poke the bear question I find to what I am about to offer, so the question and the offer belong together.
+
 ## What I collect
 I look for 8 to 20 words that the owner and their customers actually use, plus:
 - complaints, in reviews, forums and Reddit threads for that trade
@@ -31,6 +34,11 @@ What the card turns into on the call:
 - Specific details show that this call was made for them. A general line fits thirty businesses, and the owner can tell.
 - It changes what the call is about. The owner stops deciding whether I am a nuisance and starts deciding what to do about the problem.
 - A generic opening puts me on top of the pile of pitches they already ignore, and then every later sentence is heard as part of that pile.
+
+## Tools I use
+- **Apollo:** only to extract leads and company data. I have never used its dialer.
+- **Dialers:** I have dialed with the Smartlead dialer and Kixie, and I know RingCentral.
+- **CRMs:** HubSpot, Salesforce, Zoho and Pipedrive, plus Notion and Google Sheets for call logs.
 
 ## Rules I keep
 - Public business information only. No private accounts, no personal data about the owner beyond their public business role.

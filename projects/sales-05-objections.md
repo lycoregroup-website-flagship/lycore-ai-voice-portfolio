@@ -17,7 +17,25 @@ I work each objection three to four times in one call. The first answer to a que
 ![Objection map: what each one often hides and what I am trying to find out](../assets/sales-s3-objection-map.png)
 Recreated illustration. Example business is made up.
 
-The right hand column is what my follow up question is trying to find out. It is not a script, and I do not post word for word replies here.
+The right hand column is what my follow up question is trying to find out. My replies in my own words are in the next section.
+
+## What I say, in my own words
+![Five common ways out, my replies, and what each one does](../assets/sales-s8-pushback-examples.png)
+Recreated illustration. No real call or recording.
+
+- **"Not interested."** "The last time you were looking into this, what were you looking for that made you interested? And what would need to be happening now for you to be interested again?"
+- **"We already have someone."** "What's the one thing you really like about how it's handled now? If you could change one thing, what would it be? And when that happens, who ends up fixing it?"
+- **"Send me an email."** "Oh, absolutely. What are you hoping to find in the email that I haven't already answered for you here?" Then: "It sounds like there's still something you're unsure about. What question do you have? I might be able to clear that up for you right now."
+- **"Let me think about it."** "Usually when someone says that, there's still something they're uncertain about. What's that for you?"
+- **"How much is it?"** "Compared to what?"
+
+Each reply is a question, so the person ends up giving the reason themselves. I work each one three to four times in the same call.
+
+## When someone is not sure
+When someone says they are not sure, I try to find out why and what could be stopping them. How they describe a past decision also tells me something: whether they tend to put decisions off or act quickly.
+
+## What I learn from the calls
+I try to learn from every call. If you call 50 to 100 people, you quickly find out what the common objections are in that industry, what the businesses are looking for, and whether they share a problem. I write down the objections that keep coming up and use them to improve the script.
 
 ## Ideas from the books (my summary)
 - **The Sales Game:** the first objection is often fear or missing information, and a short, curious "what else" can move a person from a surface reason to the real one. It also says to prepare for the same ten to twenty objections again and again, because they repeat.

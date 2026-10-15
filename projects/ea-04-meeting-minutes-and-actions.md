@@ -20,6 +20,13 @@ The briefing note, agenda, calendar event, minutes, Asana tasks and draft.
 ## Possible with client access, not done
 Joining a real call, using a recording or a transcription tool, and sending the follow-up. No call took place. Zoom and Otter style tools have not been used.
 
+## What I would ask first
+Before doing this for a real executive I would ask:
+1. Who approves the minutes before they go out, and how fast?
+2. Where are minutes filed, and who can see them?
+3. Which actions do you want tracked, and who chases the owners?
+I would write the answers down once and work from them, so I do not ask the same question twice.
+
 ## Tools and honest levels
 Google Calendar and Asana: learning, used here for the first time on practice data. Google Drive and Gmail drafts: used.
 
