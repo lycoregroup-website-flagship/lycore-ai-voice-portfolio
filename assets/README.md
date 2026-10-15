@@ -22,3 +22,18 @@ These five are **concept graphics** (designed illustrations with fictional names
 | `09_Overview_Websites_That_Convert.jpg` | [Service-business websites](../projects/service-business-websites.md) | Concept of a lead-capture site with click-to-call, forms, service-area pages and local search support |
 
 None of these images should be read as proof of a signed deal, a live deployment, delivery rates or revenue.
+
+### Executive assistant practice projects (`ea-s*.png`)
+
+These are **recreated illustrations** built from invented data, or **renders of the sample Word, Excel and PowerPoint files** in `samples/`, or **exports of Canva designs** made on a fictional company. No account, login, client system or real person is shown. Real client work is confidential, so none is posted; see [why](../CONFIDENTIALITY.md).
+
+| File | Used in | What it shows |
+| --- | --- | --- |
+| `ea-s1-week.png`, `ea-s1-trip.png` | [Executive week and trip](../projects/ea-01-executive-week-and-trip.md) | A calendar week in three time zones, flight and hotel shortlists |
+| `ea-s2-inbox.png`, `ea-s15-gmail-drafts.png` | [Inbox triage](../projects/ea-02-inbox-triage.md) | 25 emails sorted into five groups, five unsent drafts |
+| `ea-s3-board.png`, `ea-s13-asana-project.png` | [Client onboarding](../projects/ea-03-client-onboarding-board.md) | The same week one plan in Trello and Asana |
+| `ea-s4-minutes.png` | [Meeting minutes](../projects/ea-04-meeting-minutes-and-actions.md) | Minutes and tracked actions |
+| `ea-s5-budget.png`, `ea-s14-notion-run-of-show.png` | [Offsite budget](../projects/ea-05-offsite-budget.md) | Budget against a cap, run of show |
+| `ea-s6` to `ea-s12` | [Documents, slides and designs](../projects/ea-06-documents-slides-and-designs.md) | Excel workbook, Word note, PowerPoint deck, Canva designs, monday.com board |
+| `ea-s16-tools-used.png` | [How I work](../how-i-work.md) | Which tool did what, with an honest level for each |
+
