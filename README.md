@@ -52,6 +52,30 @@ Recreated illustrations and renders of the sample files. Each links to its proje
 
 ![Tools used and how I describe my level in each](assets/ea-s16-tools-used.png)
 
+## Sales practice portfolio (method, not results)
+
+Seven method pages on how I prepare for and run cold calls to service businesses. They describe how I think and work. I have not closed a paying client yet, so there are no results, conversion rates, recordings or client names here. Every business, owner and review in the examples is made up. [Read why](CONFIDENTIALITY.md).
+
+| Project | What it shows |
+| --- | --- |
+| [Mindset and posture before I dial](projects/sales-01-mindset-and-posture.md) | Why I go in as a helper, pacing to the person, three buyer states |
+| [Research before the call](projects/sales-02-research-before-the-call.md) | A research card on a made-up business: customer words, unanswered reviews, broken things, one poke the bear question |
+| [Openers and gatekeepers](projects/sales-03-openers-and-gatekeepers.md) | Five opener rules and how I treat a gatekeeper's first no |
+| [Discovery and product pivots](projects/sales-04-discovery-and-product-pivots.md) | Listening, question types in order, moving to a second product honestly |
+| [Objections](projects/sales-05-objections.md) | What common objections often hide and what my follow up question looks for |
+| [Value first for busy owners](projects/sales-06-value-first-and-busy-owners.md) | Four meeting free ways to give value before asking for anything |
+| [Lines I avoid, and why](projects/sales-07-lines-i-avoid-and-why.md) | For each line: what it makes the person feel and what hurdle it creates |
+
+### A look at the work
+
+| | | |
+| --- | --- | --- |
+| [![Research card](assets/sales-s1-research-card.png)](projects/sales-02-research-before-the-call.md) | [![Call flow](assets/sales-s2-call-flow.png)](projects/sales-04-discovery-and-product-pivots.md) | [![Objection map](assets/sales-s3-objection-map.png)](projects/sales-05-objections.md) |
+| [![Lines I avoid](assets/sales-s4-lines-i-avoid.png)](projects/sales-07-lines-i-avoid-and-why.md) | [![Opener anatomy](assets/sales-s5-opener-anatomy.png)](projects/sales-03-openers-and-gatekeepers.md) | [![Value ladder](assets/sales-s6-value-ladder.png)](projects/sales-06-value-first-and-busy-owners.md) |
+| [![Buyer states](assets/sales-s7-buyer-states.png)](projects/sales-01-mindset-and-posture.md) | | |
+
+Ideas from four books I study (The Sales Game, The Complete Sales Workbook, The NEPQ Black Book of Questions, The 7 Figure Sales Script) are summarised in my own words. No book text is copied.
+
 ## How a typical system fits together
 
 ```mermaid
@@ -95,4 +119,4 @@ Prompts and business knowledge; branching and follow-up questions; interruption 
 
 ## Evidence and privacy
 
-These are **demonstrations, design samples and technical documentation**. The images in `assets/` are either recreated and anonymized illustrations based on real outreach and demonstrations, or concept graphics with fictional sample data (marked as such); they are not pixel-exact screenshots, verified testimonials or performance reports. Example scenarios use fictional information. The executive assistant projects are practice work rebuilt on invented data because real client work is confidential; [read why](CONFIDENTIALITY.md). Credentials, client records, personal contact details and direct phone-demo numbers are excluded. Work enquiries and pre-contract communications stay on Upwork where required.
+These are **demonstrations, design samples and technical documentation**. The images in `assets/` are either recreated and anonymized illustrations based on real outreach and demonstrations, or concept graphics with fictional sample data (marked as such); they are not pixel-exact screenshots, verified testimonials or performance reports. Example scenarios use fictional information. The executive assistant and sales projects are practice work rebuilt on invented data because real client work is confidential; [read why](CONFIDENTIALITY.md). Credentials, client records, personal contact details and direct phone-demo numbers are excluded. Work enquiries and pre-contract communications stay on Upwork where required.

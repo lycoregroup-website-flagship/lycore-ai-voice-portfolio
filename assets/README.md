@@ -37,3 +37,16 @@ These are **recreated illustrations** built from invented data, or **renders of 
 | `ea-s6` to `ea-s12` | [Documents, slides and designs](../projects/ea-06-documents-slides-and-designs.md) | Excel workbook, Word note, PowerPoint deck, Canva designs, monday.com board |
 | `ea-s16-tools-used.png` | [How I work](../how-i-work.md) | Which tool did what, with an honest level for each |
 
+### Sales practice projects (`sales-s*.png`)
+
+**Recreated illustrations** built from invented data. No real business, review, website, call or recording is shown. Each image carries the author name on a band at the bottom. See [why](../CONFIDENTIALITY.md).
+
+| File | Used in | What it shows |
+| --- | --- | --- |
+| `sales-s7-buyer-states.png` | [Mindset and posture](../projects/sales-01-mindset-and-posture.md) | Three buyer states and what I do in each |
+| `sales-s1-research-card.png` | [Research before the call](../projects/sales-02-research-before-the-call.md) | A research card on a made-up pest control business |
+| `sales-s5-opener-anatomy.png` | [Openers and gatekeepers](../projects/sales-03-openers-and-gatekeepers.md) | Two example openers split into their parts |
+| `sales-s2-call-flow.png` | [Discovery and product pivots](../projects/sales-04-discovery-and-product-pivots.md) | The order of a call with example questions |
+| `sales-s3-objection-map.png` | [Objections](../projects/sales-05-objections.md) | What common objections often hide |
+| `sales-s6-value-ladder.png` | [Value first](../projects/sales-06-value-first-and-busy-owners.md) | Four meeting free ways to give value |
+| `sales-s4-lines-i-avoid.png` | [Lines I avoid](../projects/sales-07-lines-i-avoid-and-why.md) | Each line, the feeling it causes and the hurdle it creates |
